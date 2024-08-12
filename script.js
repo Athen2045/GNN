@@ -1,5 +1,5 @@
 // Release: 1.0
-const API_KEY = '00662ee5a96544179b335efe249d78d5';
+const API_KEY = '3b625279b61a4d6ab5d43a72b5889d0e';
 
 let currentPage = 1;
 let currentCategory = null;
